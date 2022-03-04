@@ -1,4 +1,4 @@
-<h2 align="center">Hey, how's it going? Derick "Drock" here! 🌊🌊 </h2>
+<h2 align="center">Hey, how's it going? Derick here! </h2>
 
 <h3 align="center">Quick Links:</h3>
 <p align="center">
@@ -14,7 +14,3 @@ Full stack software engineer with over ten years experience in customer relation
 If you'd like to stay in touch, keep an eye for my forthcoming website. It needs a bit of a refresher, 😅.
 
 In the meanwhile, as a fan of Ruby and Java, I am always looking to learn more (cough: 🐍!). Drop by my quicklinks above if you have a fun project(s) to share. 
-
-🌊,
-
-Drock  ;-)
