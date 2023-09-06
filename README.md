@@ -3,7 +3,7 @@
 <h3 align="center">Quick Links:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/dbcastillo">LinkedIn</a> | 
-  <a href="[https://bit.ly/dbcastillo](https://www.canva.com/design/DAFs9NoYrD4/zVIhkaQ9nuw0LtP1ukV5dw/edit?utm_content=DAFs9NoYrD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">Resume</a> | 
+  <a href="https://www.canva.com/design/DAFs9NoYrD4/zVIhkaQ9nuw0LtP1ukV5dw/edit?utm_content=DAFs9NoYrD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Resume</a> | 
   🚧 Website 🚧
 </p>
 
