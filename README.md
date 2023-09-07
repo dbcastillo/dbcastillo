@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/dbcastillo" target="_blank">LinkedIn</a> | 
   <a href="https://www.canva.com/design/DAFs9NoYrD4/dH3K7IessWM-Qhlg4eCmFw/view?utm_content=DAFs9NoYrD4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Resume</a> | 
-  <a href="derick-castillo.netlify.com" target="_blank">Website</a>
+  <a href="https://www.derick-castillo.netlify.com" target="_blank">Website</a>
 </p>
 
 # About Me 
